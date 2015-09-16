@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:17:10.821713
+#+TITLE: 法海遺珠
+#+PROPERTY: DZID  DZ1166
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，26—723 四十六卷 太平部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
