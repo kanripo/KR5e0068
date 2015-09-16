@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:17:10.821713
+# -*- mode: mandoku-view -*-
 #+TITLE: 法海遺珠
-#+PROPERTY: DZID  DZ1166
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，26—723 四十六卷 太平部
+#+DATE: 2015-08-29 02:17:43
+#+PROPERTY:  LASTPB <PB KR5e0068_SJB_046-261005a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5e0068_HFL_046-019b>¶¶¶¶¶¶¶¶¶¶¶
+
